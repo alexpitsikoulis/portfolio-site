@@ -11,6 +11,10 @@ nav {
 h1 {
     font-size: 60px;
     margin: 0;
+    color: aliceblue;
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: black;
+    font-weight: 900;
 }
 ul {
     font-size: 24px;
@@ -27,7 +31,7 @@ ul {
             text-decoration: none;
         }
         ul li a:hover {
-            color: 
+            color: black;
         }
 .personalphoto {
     width: 150px;
