@@ -1,0 +1,35 @@
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+header {
+    text-align: center;
+    background: #8BA7B5;
+}
+nav {
+    background: #BF5E5F;
+}
+h1 {
+    font-size: 60px;
+    margin: 0;
+}
+ul {
+    font-size: 24px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+    ul li {
+        margin: 0 20px;
+        padding: 16px;
+    }
+        ul li a {
+            color: #D4CBCD;
+            text-decoration: none;
+        }
+        ul li a:hover {
+            color: 
+        }
+.personalphoto {
+    width: 150px;
+    margin: 10px;
+}
